@@ -3,10 +3,12 @@
 # webpack-conditional-loader
 
 <div>
-  <a href="https://www.npmjs.com/package/webpack-conditional-loader"><img src="https://img.shields.io/npm/v/webpack-conditional-loader.svg" /></a>
+  <a href="https://www.npmjs.com/package/webpack-conditional-loader-ng"><img src="https://img.shields.io/npm/v/webpack-conditional-loader.svg" /></a>
 </div>
 
 <br>
+
+Forked from webpack-conditional-loader and made some improvements.
 
 Inspired by [C conditionals directive](https://gcc.gnu.org/onlinedocs/gcc-3.0.2/cpp_4.html),
 conditional loader decides if a given block should be included in the final bundle.
