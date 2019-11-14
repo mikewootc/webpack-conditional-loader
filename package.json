@@ -24,13 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caiogondim/webpack-conditional-loader.git"
+    "url": "git+https://github.com/mikewootc/webpack-conditional-loader-ng.git"
   },
   "keywords": [],
   "author": "Caio Gondim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/caiogondim/webpack-conditional-loader/issues"
+    "url": "https://github.com/mikewootc/webpack-conditional-loader-ng/issues"
   },
-  "homepage": "https://github.com/caiogondim/webpack-conditional-loader#readme"
+  "homepage": "https://github.com/mikewootc/webpack-conditional-loader-ng#readme"
 }

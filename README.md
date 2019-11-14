@@ -67,7 +67,3 @@ import reduxLogger from 'redux-logger'
 - [GCC C conditional documentation](https://gcc.gnu.org/onlinedocs/gcc-3.0.2/cpp_4.html)
 
 ---
-
-[caiogondim.com](https://caiogondim.com) &nbsp;&middot;&nbsp;
-GitHub [@caiogondim](https://github.com/caiogondim) &nbsp;&middot;&nbsp;
-Twitter [@caio_gondim](https://twitter.com/caio_gondim)
