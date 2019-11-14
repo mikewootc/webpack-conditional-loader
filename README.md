@@ -1,6 +1,6 @@
 <img src="http://rawgit.com/caiogondim/webpack-conditional-loader/master/logo/banner.svg" width="100%" />
 
-# webpack-conditional-loader
+# webpack-conditional-loader-ng
 
 <div>
   <a href="https://www.npmjs.com/package/webpack-conditional-loader-ng"><img src="https://img.shields.io/npm/v/webpack-conditional-loader.svg" /></a>
@@ -19,26 +19,26 @@ faster).
 ## Installation
 
 ```bash
-npm install --save-dev webpack-conditional-loader
+npm install --save-dev webpack-conditional-loader-ng
 ```
 
 ## Usage
 
 ### In your `webpack.config.js`
 
-Put `webpack-conditional-loader` as the last loader in the array, so it will process the code before
+Put `webpack-conditional-loader-ng` as the last loader in the array, so it will process the code before
 all others.
 
 ```js
 module: {
   rules: [{
     test: /\.js$/,
-    use: ['babel-loader', 'webpack-conditional-loader']
+    use: ['babel-loader', 'webpack-conditional-loader-ng']
   }]
 }
 ```
 
-Get an example config file [here](https://github.com/caiogondim/webpack-conditional-loader/blob/master/webpack.js)
+Get an example config file [here](https://github.com/mikewootc/webpack-conditional-loader-ng/blob/master/webpack.js)
 
 ### On your code
 
